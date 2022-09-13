@@ -1,0 +1,65 @@
+[
+    {
+        "name" : "Beauty of Joseon",
+        "category" : "Sunscreen",
+        "price" : "20.25",
+        "imgSrc" : "img/6.png"
+    },
+    {
+        "name" : "Cosrx",
+        "category" : "Cream",
+        "price" : "22.00",
+        "imgSrc" : "img/cream.jpg"
+    },
+    {
+        "name" : "TeaTreek",
+        "category" : "Mask",
+        "price" : "15.00",
+        "imgSrc" : "img/mask1.jpg"
+    },
+    {
+        "name" : "Glow Recipe",
+        "category" : "Sunscreen",
+        "price" : "33.75",
+        "imgSrc" : "img/spf2.webp"
+    },
+    {
+        "name" : "Dr.Jart",
+        "category" : "Mask",
+        "price" : "10.00",
+        "imgSrc" : "img/mask2.jpeg"
+    },
+    {
+        "name" : "Cosrx",
+        "category" : "Cleanser",
+        "price" : "12.43",
+        "imgSrc" : "img/cleanser.jpg"
+    },
+    {
+        "name" : "Cosrx",
+        "category" : "Cream",
+        "price" : "15.50",
+        "imgSrc" : "img/snailmucin.jpg"
+    },
+    {
+        "name" : "Beauty of Joseon",
+        "category" : "Serum",
+        "price" : "25.00",
+        "imgSrc" : "img/5.jpg"
+    },
+    {
+        "name" : "Beauty of Joseon",
+        "category" : "Serum",
+        "price" : "25.00",
+        "imgSrc" : "img/5.jpg"
+    },
+    {
+        "name" : "Beauty of Joseon",
+        "category" : "Serum",
+        "price" : "25.00",
+        "imgSrc" : "img/5.jpg"
+    }
+
+    
+
+]
